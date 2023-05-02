@@ -1,6 +1,5 @@
 .link-table {
     display: flex;
-    text-align: left;
     justify-content:space-around;
 }
 
@@ -10,4 +9,8 @@ a{
 
 a:visited{
     color:#ff0000
+}
+
+li{
+    padding: 5px;
 }
