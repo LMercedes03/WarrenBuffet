@@ -1,15 +1,9 @@
  body {
-    text-align: center;
-    color: darkblue;
-}
-
-footer {
-    align-content: center;
-    text-align: center;
+    color:navy;
 }
 
 .link-table {
-    display: flex;
+    display:inline-flex;
     justify-content: space-between;
     text-align: left;
 }
