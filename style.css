@@ -1,13 +1,13 @@
- body {
-    color:navy;
-}
-
 .link-table {
+    display: flex;
     text-align: left;
-    display: inline-flex;
+    justify-content:space-around;
 }
 
-.link-column{
-    display: inline-block;
-    vertical-align: middle;
+a{
+    color:#800080
+}
+
+a:visited{
+    color:#ff0000
 }
